@@ -1,2 +1,2 @@
 # projetos_python
-Projetos simples em python
+Este repositório contém alguns projetos simples desenvolvidos em Python, como o clássico jogo "Pedra, Papel e Tesoura".
