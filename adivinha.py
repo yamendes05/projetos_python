@@ -5,9 +5,9 @@ def adivinha(x):
     adivinha = 0
     while adivinha != random_num:
         adivinha = int(input(f'Adivinha um número entre 1 e {x}: '))
-        if adivinha > random_num:
+        if adivinha < random_num:
             print("Número maior")
-        elif adivinha < random_num:
+        elif adivinha > random_num:
             print("Número menor")
     print("Você adivinhou o número!")
 
