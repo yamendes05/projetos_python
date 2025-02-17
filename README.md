@@ -1,7 +1,6 @@
 # Repositório: Projetos Python 
 
-Este repositório contém projetos simples em Python que implementam funções básicas como operações matemáticas, simulação de investimento, verificação de números pares e ímpares e o clássico jogo Pedra, Papel e Tesoura.
-
+Este repositório contém projetos simples em Python.
 ## Projetos
 
 ### 1. **Calculadora Simples**
