@@ -1,6 +1,6 @@
 # Repositório: Projetos Python 
 
-Este repositório contém projetos simples em Python.
+Este repositório contém projetos em Python.
 ## Projetos
 
 ### 1. **Calculadora Simples**
